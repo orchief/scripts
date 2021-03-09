@@ -1,0 +1,17 @@
+{
+    "name": "happy/ninghe-pic-synchronous",
+    "authors": [
+        {
+            "name": "orchief",
+            "email": "orchief@163.com"
+        }
+    ],
+    "require": {
+        "qiniu/php-sdk": "^7.3",
+        "topthink/think-orm": "^2.0",
+        "nategood/httpful": "*",
+        "predis/predis": "^1.1",
+        "topthink/think-cache": "^2.0",
+        "orchief/tools": "dev-master"
+    }
+}
