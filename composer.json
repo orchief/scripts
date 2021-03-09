@@ -12,6 +12,7 @@
         "predis/predis": "^1.1",
         "topthink/think-cache": "^2.0",
         "orchief/tools": "dev-master",
-        "monolog/monolog": "^2.2"
+        "monolog/monolog": "^2.2",
+        "owner888/phpspider": "^2.1"
     }
 }

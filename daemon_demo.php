@@ -35,5 +35,5 @@ class DaemonDemo extends Daemon
     }
 }
 
-$deamon = new DaemonDemo(dirname(__FILE__) . '/cache/daemon_demo.log');
+$deamon = new DaemonDemo(dirname(__FILE__) . '/cache/daemon_demo.pid');
 $deamon->run($argv);
