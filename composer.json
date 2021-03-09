@@ -7,11 +7,11 @@
         }
     ],
     "require": {
-        "qiniu/php-sdk": "^7.3",
         "topthink/think-orm": "^2.0",
         "nategood/httpful": "*",
         "predis/predis": "^1.1",
         "topthink/think-cache": "^2.0",
-        "orchief/tools": "dev-master"
+        "orchief/tools": "dev-master",
+        "monolog/monolog": "^2.2"
     }
 }

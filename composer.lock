@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c1ac64ef310f4bf009ffc33aa5ac418d",
+    "content-hash": "39dbe3877445d35bc2ba3b847147c67c",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -223,12 +223,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchief/daemon.git",
-                "reference": "6f125a6f365679772e2b18e85a809f78fa09b8b6"
+                "reference": "d79c52e52478a48d6a32c4c988c51e6efe692ea5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchief/daemon/zipball/6f125a6f365679772e2b18e85a809f78fa09b8b6",
-                "reference": "6f125a6f365679772e2b18e85a809f78fa09b8b6",
+                "url": "https://api.github.com/repos/orchief/daemon/zipball/d79c52e52478a48d6a32c4c988c51e6efe692ea5",
+                "reference": "d79c52e52478a48d6a32c4c988c51e6efe692ea5",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -259,7 +259,7 @@
                     "email": "orchief@163.com"
                 }
             ],
-            "time": "2021-03-09T15:35:26+00:00"
+            "time": "2021-03-09T15:47:23+00:00"
         },
         {
             "name": "predis/predis",
