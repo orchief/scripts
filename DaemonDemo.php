@@ -7,7 +7,7 @@ use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 use Tools\Daemon;
 
-class DeamonDemo extends Daemon
+class DaemonDemo extends Daemon
 {
     /**
      * 守护进程的任务
@@ -35,5 +35,5 @@ class DeamonDemo extends Daemon
     }
 }
 
-$deamon = new DeamonDemo(dirname(__FILE__) . '/cache/deamondemo.log');
+$deamon = new DaemonDemo(dirname(__FILE__) . '/cache/daemon_demo.log');
 $deamon->run($argv);
